@@ -367,9 +367,10 @@ Post list
 
 .people-container {
    display: grid;
-   grid-template-columns: repeat(4, 200px); /*repeat( auto-fit, minmax(200px, 1fr) );*/
+   grid-template-columns: repeat( auto-fit, minmax(190px, 1fr) );
    grid-column-gap: $spacing-unit;
    align-content: start;
+   justify-items: start;
    justify-content: start;
    margin-top: 1*$spacing-unit;
    margin-bottom: 1*$spacing-unit;
@@ -377,6 +378,7 @@ Post list
 
 .people-item {
   text-align: center;
+  max-width: 190px;
 }
 
 .people-item .person-name {
@@ -384,6 +386,6 @@ Post list
 }
 
 .people-image {
-  max-width: 200px;
+  max-width: 190px;
   border-radius: 5px;
 }

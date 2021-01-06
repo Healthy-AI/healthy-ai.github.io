@@ -26,7 +26,8 @@
 }
 
 .site-title {
-  padding-top: 2.0em;
+  padding-top: 3.0em;
+  padding-bottom: 2.0em;
   color: $grey-color-light;
   float: left;
 }
@@ -45,7 +46,6 @@
 
 .site-subtitle {
   margin-bottom: $spacing-unit;
-  padding-bottom: 1.0em;
 
   &,
   &:visited {
@@ -258,7 +258,7 @@
 
 .post-title {
   @include relative-font-size(1.625);
-  letter-spacing: -1px;
+  /*letter-spacing: -1px;*/
   line-height: 1;
 
   @include media-query($on-laptop) {
@@ -365,6 +365,18 @@ Post list
  PEOPLE PAGE
 */
 
+.people-header {
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  background-color: $background-color3;
+}
+
+.people-content {
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  background-color: $background-color;
+}
+
 .people-container {
    display: grid;
    grid-template-columns: repeat( auto-fill, minmax(190px, 1fr) );
@@ -372,8 +384,7 @@ Post list
    align-content: start;
    justify-items: start;
    justify-content: start;
-   margin-top: 1*$spacing-unit;
-   margin-bottom: 1*$spacing-unit;
+   margin-top: $spacing-unit;
 
    @include media-query($on-palm) {
      grid-template-columns: repeat( auto-fill, minmax(120px, 1fr) );

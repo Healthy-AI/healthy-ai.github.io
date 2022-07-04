@@ -16,7 +16,12 @@ layout: default
         </time>
       </p>
       {%- if page.author -%}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        <p>
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        </p>
+      {%- endif -%}
+      {%- if page.venue -%}
+        <p><span class="p-venue h-card" itemprop="name">{{ page.venue }}</span></p>
       {%- endif -%}
     </header>
 

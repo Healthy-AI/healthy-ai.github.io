@@ -9,5 +9,5 @@ The Healthy AI Lab is an academic research group at Chalmers University of Techn
 &nbsp;  
 
 **Funding**  
-Fredrik Johansson and students Newton Mwai Kinyanjui, Lena Stempfle, Anton Matsson and Adam Breitholtz are supported in part by the
+Fredrik Johansson and students are supported by the
 Wallenberg AI, Autonomous Systems and Software Program (WASP) funded by the Knut and Alice Wallenberg Foundation.

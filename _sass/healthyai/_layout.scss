@@ -28,11 +28,11 @@
 .site-title {
   padding-top: 3.0em;
   padding-bottom: 2.0em;
-  color: $grey-color-light;
+  color: #8EC7C1;
   float: left;
 }
 .site-title a {
-  @include relative-font-size(2.535);
+  @include relative-font-size(2.735);
 
   font-weight: 800;
   line-height: $base-line-height * $base-font-size * 2.25;
@@ -40,16 +40,17 @@
 
   &,
   &:visited {
-    color: $grey-color-light;
+    color: #8EC7C1;
   }
 }
 
 .site-subtitle {
   margin-bottom: $spacing-unit;
+  font-weight: bold;
 
   &,
   &:visited {
-    color: $grey-color-light;
+    color: $text-color-header;
   }
 }
 
@@ -66,7 +67,7 @@
   }
 
   .page-link {
-    color: $grey-color-light;
+    color: $text-color-header;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -76,7 +77,7 @@
 
     &,
     &:visited {
-      color: $grey-color-light;
+      color: $text-color-header;
     }
   }
 
@@ -228,7 +229,7 @@
 */
 
 .post-list-heading {
-  @include relative-font-size(1.75);
+  @include relative-font-size(1.55);
 }
 
 .post-list {
@@ -411,4 +412,8 @@ Post list
   @include media-query($on-palm) {
     max-width: 120px;
   }
+}
+
+.p-venue {
+  font-weight: bold;
 }

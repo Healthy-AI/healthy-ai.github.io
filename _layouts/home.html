@@ -19,14 +19,14 @@ layout: default
     {%- if page.title -%}
       <h1 class="page-heading">{{ page.title }}</h1>
     {%- endif -%}
-    
+
     {{ content }}
 
   </div>
 </div>
 <div class="home-posts">
   <div class="wrapper">
-      <h2 class="post-list-heading">{{ page.list_title | default: "Posts & news" }}</h2>
+      <!--<h2 class="post-list-heading">{{ page.list_title | default: "Posts & news" }}</h2>-->
 
       <ul class="post-list home-post-list">
         {%- for post in site.posts -%}
@@ -43,7 +43,6 @@ layout: default
                       {{ post.title | escape }}
                     </a>
                   </h3>
-                  <h4>{{ post.date | date: date_format }}</h4>
                   {% if post.image %}
                     <div class="post-list-image">
                       <img src="{{ post.image | relative_url }}" />
@@ -52,6 +51,9 @@ layout: default
                   {% if post.abstract %}
                     {{ post.abstract }}
                   {% endif %}
+                  <p>
+                    <h4>{{ post.date | date: date_format }}</h4>
+                  </p>
               </div>
             </li>
             <li>

@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 The Healthy AI Lab is an academic research group at Chalmers University of Technology, Sweden, led by [Fredrik Johansson](../people/fredrik.html). We conduct research into machine learning for decision making and causal inference with applications in healthcare.
 
 &nbsp;  

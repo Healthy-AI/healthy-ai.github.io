@@ -333,6 +333,19 @@ Post list
   vertical-align: top;
 }
 
+.post-list-author {
+  font-style: italic;
+  padding-bottom: 10px;
+  vertical-align: top;
+}
+
+.post-list-venue {
+  padding-bottom: 5px;
+  font-weight: bold;
+  vertical-align: top;
+}
+
+
 .person-list-image {
   width: 180px;
   min-width: 180px;
@@ -347,6 +360,14 @@ Post list
 
 .post-speaker-image {
   width: 180px;
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  border-radius: 5px;
+}
+
+.post-general-image {
+  width: 50%;
   float: left;
   margin-right: 1em;
   margin-bottom: 1em;

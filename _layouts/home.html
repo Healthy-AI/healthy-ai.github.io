@@ -48,9 +48,12 @@ layout: default
                       {{ post.author | escape }}
                     </div>
                   {% endif %}
-                  {% if post.venue %}
+                  {% if post.venue or post.paper %}
                     <div class="post-list-venue">
                       {{ post.venue | escape }}
+                      {% if post.paper %}
+                        <a href="{{ post.paper | escape }}" target="_blank">[Paper URL]</a>
+                      {% endif %}
                     </div>
                   {% endif %}
                   {% if post.image %}

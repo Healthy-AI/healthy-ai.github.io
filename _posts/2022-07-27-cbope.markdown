@@ -5,6 +5,7 @@ title: "Case-Based Off-Policy Evaluation Using Prototype Learning"
 date:   2022-07-27 09:00:00 +0100
 venue: UAI 2022
 image: assets/posts/cbope.png
+paper: https://openreview.net/forum?id=r3EI6UUiqx9
 categories: blog
 abstract: >-
   Importance sampling (IS) is often used to perform off-policy evaluation but it is prone to several issues---especially when the behavior policy is unknown and must be estimated from data. Significant differences between target and behavior policies can result in uncertain value estimates due to, for example, high variance. Standard practices such as inspecting IS weights may be insufficient to diagnose such problems and determine for which type of inputs the policies differ in suggested actions and resulting values. To address this, we propose estimating the behavior policy for IS using prototype learning. The learned prototypes provide a condensed summary of the input-action space, which allows for describing differences between policies and assessing the support for evaluating a certain target policy. In addition, we can describe a value estimate in terms of prototypes to understand which parts of the target policy have the most impact on the estimate. We find that this provides new insights in the examination of a learned policy for sepsis management. Moreover, we study the bias resulting from restricting models to use prototypes, how bias propagates to IS weights and estimated values and how this varies with history length.

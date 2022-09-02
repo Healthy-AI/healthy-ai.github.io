@@ -7,6 +7,7 @@ image: /assets/people/samuel.jpeg
 position: 'MSc student'
 status: 'former'
 ---
+![Samuel](/assets/people/samuel.jpeg){:class="people-profile-image"}
 
 ### MSc project: Learning to search efficiently for causally near-optimal treatments (Published NeurIPS 2020)
 

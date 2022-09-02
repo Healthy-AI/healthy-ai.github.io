@@ -6,7 +6,7 @@ domain adaptation with neural networks"
 date:   2022-09-02 13:00:00 +0100
 venue: In submission
 image: assets/posts/boundimg.png
-paper:
+paper: https://openreview.net/forum?id=vUuHPRrWs2
 categories: blog
 abstract: >-
 Understanding generalization is crucial to confidently engineer and deploy machine learning models, especially when deployment implies a shift in the data domain.

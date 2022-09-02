@@ -12,7 +12,7 @@ status: 'current'
 
 ![Newton](/assets/people/newton.jpeg){:class="people-profile-image"}
 
-I'm a PhD student at Chalmers University of technology with the Healthy AI lab advised by [Fredrik D. Johansson](https://www.healthyai.se/people/fredrik), working in machine learning for improved sequential decision making in healthcare, with historical data. My research is funded by the [The Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org).
+I'm a PhD student in Computer Science and Engineering at Chalmers University of technology with the Healthy AI lab advised by [Fredrik D. Johansson](https://www.healthyai.se/people/fredrik), working in machine learning for improved sequential decision making in healthcare, with historical data. My research is funded by the [The Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org).
 
 Prior to joining Chalmers, I did my masters in Electrical and Computer Engineering at [Carnegie Mellon University, Africa](https://www.africa.engineering.cmu.edu/) in Kigali, Rwanda. During my masters, I did [a research internship](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_31) at [IBM Research's Science for Social Good](https://research.ibm.com/science-for-social-good/) where my main advisor was Dr. Kush R. Varshney. I did my bachelors at [Dedan Kimathi University of Technology](https://www.dkut.ac.ke/) in Nyeri, Kenya, where I graduated with double degrees in Electrical and Electronics Engineering, and Telecommunication and Information Engineering. For my bachelor thesis, I did research with [Dr. Ciira Maina](https://sites.google.com/site/cwamainadekut/).
 

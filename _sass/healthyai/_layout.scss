@@ -435,6 +435,18 @@ Post list
   }
 }
 
+.people-profile-image {
+  max-width: 190px;
+  border-radius: 5px;
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+
+  @include media-query($on-palm) {
+    max-width: 120px;
+  }
+}
+
 .p-venue {
   font-weight: bold;
 }

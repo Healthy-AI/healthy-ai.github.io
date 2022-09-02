@@ -4,7 +4,7 @@ author:  "Adam Breitholtz, Fredrik Johansson"
 title: "Practicality of generalization guarantees for unsupervised domain adaptation with neural networks"
 date:   2022-09-02 13:00:00 +0100
 venue: In submission
-image: assets/posts/boundimg.png
+image: assets/posts/cbope.png
 paper: https://openreview.net/forum?id=vUuHPRrWs2
 categories: blog
 abstract: >-
@@ -13,7 +13,7 @@ Understanding generalization is crucial to confidently engineer and deploy machi
 
 ## A survey of the field of unsupervised domain adaptation bounds show us that only a few of them are actually computable
 
-![Minimum bound values achieved](/assets/posts/boundimg.png){:class="post-general-image"}
+![Minimum bound values achieved](/assets/posts/cbope.png){:class="post-general-image"}
 
 In sensitive applications such as healthcare we are generally concerned with not only the performance of our models on training data; but also when we apply them to unseen data which might come from a different distribution. In these situations we generally do not have access to labeled data which puts us in the unsupervised domain adaptation setting. Generalization bounds in this setting are generally used for model selection or as inspiration for new algorithms. However, if we are interested in performance guarantees on out-of-distribution samples the literature is more sparse. We set out to remedy this by investigating if there are bounds which can satisfy two specific desiderata: computability, tractability and estimability.
 

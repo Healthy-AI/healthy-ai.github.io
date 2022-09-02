@@ -8,7 +8,7 @@ position: 'PhD student'
 status: 'current'
 ---
 
-![Lena](/assets/people/lena.jpeg){:class="people-profile-image"}
+![Lena](/assets/people/lena.png){:class="people-profile-image"}
 
 ## About me
 I am a Ph.D. student in the Data Science and AI division at Chalmers University of Technology, advised by Fredrik Johansson and [Devdatt Dubhashi](https://sites.google.com/view/devdattdubhashi/home). My work is generously supported by the [The Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org). 

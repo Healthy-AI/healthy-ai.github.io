@@ -23,7 +23,7 @@ with the goal of developing interpretable and accurate models to assist with cli
 
 ## Teaching 
 
-*Causality and Causal Inference
-*Design for AI systems
-*Introduction to Data Science 
-*Research Methods for Data Science
+*Causality and Causal Inference  
+*Design for AI systems  
+*Introduction to Data Science  
+*Research Methods for Data Science  

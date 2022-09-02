@@ -427,8 +427,23 @@ Post list
 }
 
 .people-image {
+  width: 190px;
+  height: 190px;
+  object-fit: cover;
+  border-radius: 5px;
+
+  @include media-query($on-palm) {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+.people-profile-image {
   max-width: 190px;
   border-radius: 5px;
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
 
   @include media-query($on-palm) {
     max-width: 120px;

@@ -7,4 +7,4 @@ layout: home
 
 The **Healthy AI Lab** at Chalmers University of Technology conducts academic research into machine learning and artificial intelligence motivated by challenges in healthcare: causality, decision-making and clinical applications. The lab is led by [Fredrik Johansson](people/fredrik.html).
 
-**[&#xbb; Read more about our resarch](/about/)** and **[our group](/people/)**
+**[&#xbb; Read more about our research](/about/)** and **[our group](/people/)**

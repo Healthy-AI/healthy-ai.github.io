@@ -3,7 +3,7 @@ layout: post
 author: "Adam Breitholtz, Fredrik Johansson"
 title: "Practicality of generalization guarantees for unsupervised domain adaptation with neural networks"
 date:   2022-09-02 09:00:00 +0100
-venue: In submission
+venue: TMLR
 image: assets/posts/boundimg.png
 paper: https://openreview.net/forum?id=vUuHPRrWs2
 categories: blog

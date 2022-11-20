@@ -2,9 +2,9 @@
 layout: post
 author:  "Lena Stempfle, Fredrik Johansson"
 title: "Sharing pattern submodels for prediction with missing values"
-date:   2022-06-22 09:00:00 +0100
+date:   2022-10-20 09:00:00 +0100
 image: assets/posts/SPSM_Example_graphic_final.png
-venue: arXiv preprint
+venue: AAAI 2023 (To appear)
 paper: https://arxiv.org/abs/2206.11161
 categories: blog
 abstract: >-

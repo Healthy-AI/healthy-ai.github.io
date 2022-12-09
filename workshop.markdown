@@ -15,6 +15,6 @@ The final program and list of speakers is in development.
 
 ### Time & place
 
-**Date:** March 8, 2023, 9am–4pm (CET)
+**Date:** March 8, 2023, 9am–4pm (CET, tentative)
 
 **Location:** Campus Johanneberg (Venue to be decided.)

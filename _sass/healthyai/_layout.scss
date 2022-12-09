@@ -301,6 +301,42 @@
 }
 
 /**
+workshop
+**/
+
+.workshop-header {
+  border-top: 0px solid $grey-color-dark;
+  border-bottom: 0px solid $grey-color-light;
+  min-height: $spacing-unit * 1.865;
+  background-color: #082e4a;
+  position: relative;
+}
+
+.workshop-header .site-title {
+  @include relative-font-size(1.0);
+  color: #F4F8F9;
+
+}
+
+.workshop-header .site-subtitle {
+  color: #ffcc2e;
+}
+
+.workshop-header .site-title a {
+  @include relative-font-size(2.3);
+  color: #F4F8F9;
+  &, &:visited {
+    color: #F4F8F9;
+  }
+}
+
+.workshop-page-header {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+}
+
+
+/**
 Post list
 */
 .home-post-list {

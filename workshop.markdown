@@ -10,6 +10,7 @@ Chalmers AI Research Centre and Sahlgrenska University Hospital are organizing a
 * **Narges Razavian** (New York University)
 * **Uri Shalit** (Technion -  Israel Institute of Technology)
 * **Giovanni Cinà** (Pacmed and University of Amsterdam)
+* **Nathaniel Swinburne** (Memorial Sloan Kettering Cancer Center)
 
 The final program and list of speakers is in development.
 

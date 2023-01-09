@@ -11,11 +11,18 @@ Chalmers AI Research Centre and Sahlgrenska University Hospital are organizing a
 * **Uri Shalit** (Technion -  Israel Institute of Technology)
 * **Giovanni Cinà** (Pacmed and University of Amsterdam)
 * **Nathaniel Swinburne** (Memorial Sloan Kettering Cancer Center)
+* **Ann-Marie Wennberg Larkö** (Sahlgrenska University Hospital, Gothenburg University)
 
 The final program and list of speakers is in development.
 
 ### Time & place
 
-**Date:** March 8, 2023, 9am–4pm (CET, tentative)
+**Date:** March 8, 2023, 9am–4pm CET (tentative)
 
-**Location:** Campus Johanneberg (Venue to be decided.)
+**Location:** Chalmersska Huset, Södra Hamngatan, Göteborg
+
+### Organizers
+
+* Fredrik Johansson (Chalmers)
+* Magnus Kjellberg (Sahlgrenska University Hospital)
+* Cecilia Hahn berg (Sahlgrenska University Hospital)

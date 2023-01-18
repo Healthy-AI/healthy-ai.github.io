@@ -335,6 +335,18 @@ workshop
   margin-bottom: $spacing-unit;
 }
 
+.workshop-speaker-image {
+  width: 20%;
+  float: left;
+  clear: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  border-radius: 5px;
+}
+
+.post-content td {
+  color: $text-color;
+}
 
 /**
 Post list

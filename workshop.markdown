@@ -24,7 +24,7 @@ Chalmers AI Research Centre and Sahlgrenska University Hospital are organizing a
 |![Giovanni Cinà](/assets/workshop/giovanni.jpg){:class="workshop-speaker-image"}**Giovanni Cinà** <br/>Pacmed and University of Amsterdam<br/><br/>Giovanni Cina is assistant professor in Responsible Medical AI at the Medical Informatics department and at the Institute for Logic, Language and Computation, at the University of Amsterdam. Giovanni is also Research Lead at Pacmed, a company aiming to deliver higher quality of care and better use of hospital capacity through data-driven decision support.
 |<br/>**Workshop session 1**<br/><br/>
 
-### Morning sessions (lunch - 4pm)
+### Afternoon sessions (lunch - 4pm)
 
 |![Narges Razavian](/assets/workshop/narges.jpeg){:class="workshop-speaker-image"}**Narges Razavian** (remote) <br/>New York University<br/><br/>Narges Razavian is assistant professor in the Predictive Analytics Unit at the Center for Healthcare Innovation and Delivery Sciences of New York University Langone Medical Center. Narges directs the Razavian lab who focus on the intersection of machine learning, artificial intelligence, and medicine.
 |![Nathaniel Swinburne](/assets/workshop/nate.jpeg){:class="workshop-speaker-image"}**Nathaniel Swinburne** (remote) <br/>Memorial Sloan Kettering Cancer Center<br/><br/>Nathaniel Swinburne is a neuroradiologist at Memorial Sloan Kettering specialized in diagnostic imaging of the brain, head and neck, and spine. Nathaniel's research studies imaging informatics—the application of information science and artificial intelligence to radiologic imaging—with the goal to improve how we detect diseases, assess and classify tumors non-invasively, and evaluate disease response to treatment

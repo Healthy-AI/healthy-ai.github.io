@@ -12,6 +12,8 @@ Chalmers AI Research Centre and Sahlgrenska University Hospital are organizing a
 
 **Location:** Chalmersska Huset, Södra Hamngatan, Göteborg
 
+# **[> Register here](https://ui.ungpd.com/Surveys/556f97c9-55f6-4557-8376-4bbb56c6df2e)**
+
 ### Speakers
 
 |![Ann-Marie Wennberg Larkö](/assets/workshop/annmarie.png){:class="workshop-speaker-image"}**Ann-Marie Wennberg Larkö** <br/>Sahlgrenska University Hospital, Gothenburg University<br/><br/>Ann-Marie Wennberg Larkö is professor of dermatology och venereology at the Sahlgrenska Academy and director of Sahlgrenska University Hospital.

@@ -13,7 +13,7 @@ $spacing-unit:     30px !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color-dark:  darken($grey-color, 40%) !default;
 
 $text-color:       $grey-color-dark;
 $text-color-header: #eee;
@@ -21,7 +21,8 @@ $background-color: #fff; /*#F9FBF2 !default;*/
 $background-color2: #1A2930 !default;
 $background-color3: #F7D750 !default; /*FAD7BE*/
 $brand-color:      #132C42 !default; /*1C0E58*/
-$link-color:       #132C42 !default;
+$link-color:       #136Ca2 !default;
+$link-color-dark:  darken($link-color, 20%) !default;
 
 $dark-accent-color: #2C363F;
 $medium-accent-color: #22AED1;

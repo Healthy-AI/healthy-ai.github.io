@@ -8,7 +8,7 @@ Chalmers AI Research Centre and Sahlgrenska University Hospital are organizing a
 
 ## Time & place
 
-**Date:** March 8, 2023, 9am–4pm CET (tentative)
+**Date:** March 8, 2023, 9am–4pm CET
 
 **Location:** Chalmersska Huset, Södra Hamngatan, Göteborg
 

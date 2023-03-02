@@ -12,7 +12,7 @@ Chalmers AI Research Centre and Sahlgrenska University Hospital are organizing a
 
 **Location:** Chalmersska Huset, Södra Hamngatan 11, Göteborg
 
-# **[> Register here](https://ui.ungpd.com/Surveys/556f97c9-55f6-4557-8376-4bbb56c6df2e)**
+# **[> Register here](https://ui.ungpd.com/Surveys/e3558142-78c1-4737-8a1c-09964dbdfd61)**
 
 ## Schedule
 

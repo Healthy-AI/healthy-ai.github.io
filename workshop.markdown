@@ -5,16 +5,12 @@ permalink: /workshop/
 ---
 
 Chalmers AI Research Centre and Sahlgrenska University Hospital are organizing a workshop on the theme "The Learning Hospital". The workshop is aimed at researchers and clinicians who are interested in how analysts and healthcare providers can best work together to improve machine learning (ML) and artificial intelligence for decision-making in health. The event will host international and local speakers with experience in applying and/or deploying machine learning in healthcare and will feature interactive workshop sessions with the goal to find out how Chalmers and Sahlgrenska can grow together in this field. We ask questions like: How should ML systems be built, deployed, and evaluated to guarantee continuous high-quality care? How should clinical data be collected, stored, and used to support causal inferences about the effects of clinical policy? How should ML change to work effectively in a hospital setting?
+<br/><br/>
 
-## Time & place
+## Thank you for participating in the workshop!
 
-**Time:** March 8, 2023, 9:00am – 4:15pm CET
+**Slides and recordings of the talks can be found below.** <br/><br/>
 
-**Location:** Chalmersska Huset, Södra Hamngatan 11, Göteborg
-
-# **[> Register here](https://ui.ungpd.com/Surveys/e3558142-78c1-4737-8a1c-09964dbdfd61)**
-
-## Schedule
 
 ### Morning sessions (9am - lunch)
 
@@ -33,6 +29,13 @@ Chalmers AI Research Centre and Sahlgrenska University Hospital are organizing a
 |15:00-15:15| Coffee break
 |15:15-16:15|![Nathaniel Swinburne](/assets/workshop/nate.jpeg){:class="workshop-speaker-image"}**Nathaniel Swinburne** (remote) <br/>Memorial Sloan Kettering Cancer Center<br/><br/>Nathaniel Swinburne is a neuroradiologist at Memorial Sloan Kettering specialized in diagnostic imaging of the brain, head and neck, and spine. Nathaniel's research studies imaging informatics—the application of information science and artificial intelligence to radiologic imaging—with the goal to improve how we detect diseases, assess and classify tumors non-invasively, and evaluate disease response to treatment<br/><br/>**Title: Powered by PACS: How Data Mining Facilitates Radiology AI Development and Clinical Integration**<br/><br/>Abstract:The successful clinical integration of radiology artificial intelligence (AI) models often requires internal training data to contend with generalizability limitations that hinder external models.  However, the reliance on expert image annotation remains an obstacle, particularly for detection and segmentation models, which require labor-intensive voxel-level annotation.  The use of data mined clinical image annotations in conjunction with semi-supervised learning techniques may provide an opportunity to facilitate the development and deployment of such models and establish continuous learning pipelines to manage target data drift.  Experiments in PACS data mining, object detection, and segmentation (MODS) using brain MR images are presented, followed by a discussion of challenges to model deployment within the larger context of clinical radiology informatics systems.   
 |16:15|<br/>**Closing remarks**<br/><br/>
+
+
+## Time & place
+
+**Time:** March 8, 2023, 9:00am – 4:15pm CET
+
+**Location:** Chalmersska Huset, Södra Hamngatan 11, Göteborg
 
 
 ## Organizers

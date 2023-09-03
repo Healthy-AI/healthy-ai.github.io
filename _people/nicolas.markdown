@@ -5,5 +5,5 @@ category: people
 permalink: /people/nicolas
 image: /assets/people/nicolas.png
 position: 'MSc student'
-status: 'current'
+status: 'former'
 ---

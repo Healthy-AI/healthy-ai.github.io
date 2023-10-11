@@ -3,13 +3,13 @@ layout: person
 title: 'Ahmet Balcioglu'
 category: people
 permalink: /people/ahmet
-image: /assets/people/ahmet.png
+image: /assets/people/ahmet.jpg
 position: 'PhD student'
 status: 'current'
 ---
 
 
-![Ahmet](/assets/people/ahmet.png){:class="people-profile-image"}
+![Ahmet](/assets/people/ahmet.jpg){:class="people-profile-image"}
 
 ## About me
 I am a Ph.D. student in the Data Science and AI division at Chalmers University of Technology, advised by Fredrik Johansson and [Devdatt Dubhashi](https://sites.google.com/view/devdattdubhashi/home). My work is generously supported by the [The Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org).

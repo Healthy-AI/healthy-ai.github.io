@@ -3,7 +3,7 @@ layout: post
 author:  "Markus Pettersson, Fredrik Johansson, Adel Daoud"
 title: "Time series of satellite imagery improve deep learning estimates of neighborhood-level poverty in Africa"
 date:   2023-04-25 09:00:00 +0100
-venue: IJCAI 2023 - AI for Social Good (To appear)
+venue: IJCAI 2023 - AI for Social Good 
 categories: blog
 abstract: >-
   To combat poor health and living conditions, policymakers in Africa require temporally and geographically granular data measuring economic well-being. Machine learning (ML) offers a promising alternative to expensive and time-consuming survey measurements by training models to predict economic conditions from freely available satellite imagery. However,  previous efforts have failed to utilize the temporal information available in earth observation (EO) data, which may capture developments important to standards of living. In this work, we develop an EO-ML method for inferring neighborhood-level material-asset wealth using multi-temporal imagery and recurrent convolutional neural networks. Our model outperforms state-of-the-art models in several aspects of generalization, explaining  72% of the variance in wealth across held-out countries and 75%  held-out time spans. Using our geographically and temporally aware models, we created spatio-temporal material-asset data maps covering the entire continent of Africa from 1990 to 2019, making our data product the largest dataset of its kind. We showcase these results by analyzing which neighborhoods are likely to escape poverty by the year 2030, which is the deadline for when the Sustainable Development Goals (SDG) are evaluated.

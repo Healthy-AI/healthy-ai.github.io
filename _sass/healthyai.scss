@@ -16,12 +16,15 @@ $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 40%) !default;
 
 $text-color:       $grey-color-dark;
-$text-color-header: #eee;
+$text-color-header: #f3f3f3;
+$text-color-title: #DE5B59; /*8EC7C1*/
+$text-color-title2: #844279; /*8EC7C1*/
+$text-color-subtitle: #10172D;
 $background-color: #fff; /*#F9FBF2 !default;*/
-$background-color2: #1A2930 !default;
-$background-color3: #F7D750 !default; /*FAD7BE*/
+$background-color2: #fff !default; /* 1A2930, DE5B59 */
+$background-color3: #844279 !default; /*FAD7BE, F7D750, 844279*/
 $brand-color:      #132C42 !default; /*1C0E58*/
-$link-color:       #136Ca2 !default;
+$link-color:       #1B729D !default;
 $link-color-dark:  darken($link-color, 20%) !default;
 
 $dark-accent-color: #2C363F;

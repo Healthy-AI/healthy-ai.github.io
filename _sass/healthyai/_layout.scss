@@ -382,15 +382,13 @@ Post list
 .post-list-image {
   float: left;
   min-width: 280px;
-  margin-right: 0.5em;
+  margin: 0.5em;
 
 }
 
 .post-list-image img {
   width: 380px;
   border-radius: 5px;
-  border: #ccc 1px solid;
-  padding: 10px 10px;
 }
 
 .post-list-description {

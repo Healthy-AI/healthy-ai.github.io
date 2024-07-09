@@ -3,12 +3,12 @@ layout: person
 title: "Herman Bergström"
 category: people
 permalink: /people/herman
-image: /assets/people/default.png
+image: /assets/people/herman.jpg
 position: "PhD student"
 status: "current"
 ---
 
-![Herman](/assets/people/default.png){:class="people-profile-image"}
+![Herman](/assets/people/herman.jpg){:class="people-profile-image"}
 
 ## About me
 

@@ -4,7 +4,7 @@ title: 'Yaochen Rao'
 category: people
 permalink: /people/yaochen
 image: /assets/people/yaochen.jpeg
-position: 'MSc student'
+position: 'PhD student (Main advisor: Rocío Mercado)'
 status: 'current'
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-author:  "Lena Stempfle, Anton Matsson, Newton Mwai, Fredrik D. Johansson"
+author: "Lena Stempfle, Anton Matsson, Newton Mwai, Fredrik D. Johansson"
 title: "Prediction Models That Learn to Avoid Missing Values"
-date:   2025-07-29 09:00:00 +0100
-image: assets/posts/ma.png
-venue: ICML 2025 (spotlight) 
+date: 2025-07-29 09:00:00 +0100
+image: "assets/posts/ma.png"
+venue: "ICML 2025 (spotlight)"
 paper: "https://openreview.net/pdf?id=ps3aO9MHJv"
 categories: blog
 abstract: >-

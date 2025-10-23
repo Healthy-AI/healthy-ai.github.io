@@ -4,6 +4,13 @@ title: Code & data
 permalink: /code/
 ---
 
+### Large Language Models
+
+* Expanding the action space of LLMs to interact with external environments
+  * [[Code]](https://github.com/yue-zhongqi/earl)
+  * [[Project Page]](https://expa-rl.github.io/)
+
+
 ### Off-policy evaluation
 
 * Case-based off-policy evaluation using prototype learning

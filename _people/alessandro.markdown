@@ -1,6 +1,6 @@
 ---
 layout: person
-title: 'Alessandro Umberto-Margueritte'
+title: 'Alessandro-Umberto Margueritte'
 category: people
 permalink: /people/alessandro
 image: /assets/people/alessandro.png

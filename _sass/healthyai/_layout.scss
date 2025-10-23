@@ -473,13 +473,24 @@ Post list
 /*
  PEOPLE PAGE
 */
-
+.people-header {
+  background-image: url('/assets/healthy_banner.png');
+  background-size: cover;       /* Makes it scale to fit the container */
+  background-position: center;  /* Keeps it centered */
+  background-repeat: no-repeat; /* Prevents tiling */
+  padding-top: $spacing-unit;
+  padding-bottom: $spacing-unit;
+  background-color: $background-color3;
+  color: $text-color-header;
+}
+/*
 .people-header {
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit;
   background-color: $background-color3;
   color: $text-color-header;
 }
+*/
 
 .people-header a {
   &,

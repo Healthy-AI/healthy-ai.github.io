@@ -1,0 +1,17 @@
+---
+layout: post
+author: "Lena Stempfle"
+title: "Expert Study on Interpretable Machine Learning Models with Missing Values"
+date: 2025-02-29 09:00:00 +0100
+image: assets/posts/Survey_example.png
+venue: "Machine Learning for Health (ML4H) 2024 Findings"
+paper: "https://arxiv.org/html/2411.09591v1"
+categories: blog
+abstract: >-
+  Inherently interpretable machine learning (IML) models offer valuable support for clinical decision-making but face challenges when features contain missing values. Traditional approaches, such as imputation or discarding incomplete records, are often impractical in scenarios where data is missing at test time. We surveyed 55 clinicians from 29 French trauma centers, collecting 20 complete responses to study their interaction with three IML models in a real-world clinical setting for predicting hemorrhagic shock with missing values. Our findings reveal that while clinicians recognize the value of interpretability and are familiar with common IML approaches, traditional imputation techniques often conflict with their intuition. Instead of imputing unobserved values, they rely on observed features combined with medical intuition and experience. As a result, methods that natively handle missing values are preferred. These findings underscore the need to integrate clinical reasoning into future IML models to enhance human-computer interaction.
+---
+
+![Overview of survey](/assets/posts/Survey_example.png){:class="post-general-image"}
+
+### Abstract
+Inherently interpretable machine learning (IML) models offer valuable support for clinical decision-making but face challenges when features contain missing values. Traditional approaches, such as imputation or discarding incomplete records, are often impractical in scenarios where data is missing at test time. We surveyed 55 clinicians from 29 French trauma centers, collecting 20 complete responses to study their interaction with three IML models in a real-world clinical setting for predicting hemorrhagic shock with missing values. Our findings reveal that while clinicians recognize the value of interpretability and are familiar with common IML approaches, traditional imputation techniques often conflict with their intuition. Instead of imputing unobserved values, they rely on observed features combined with medical intuition and experience. As a result, methods that natively handle missing values are preferred. These findings underscore the need to integrate clinical reasoning into future IML models to enhance human-computer interaction.

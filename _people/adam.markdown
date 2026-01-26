@@ -5,7 +5,7 @@ category: people
 permalink: /people/adam
 image: /assets/people/adam.png
 position: 'PhD student'
-status: 'current'
+status: 'former'
 ---
 
 

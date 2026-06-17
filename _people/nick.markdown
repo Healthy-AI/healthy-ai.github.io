@@ -5,7 +5,7 @@ category: people
 permalink: /people/nick
 image: /assets/people/nick.png
 position: 'Post-doc'
-status: 'alumni'
+status: 'former'
 ---
 
 ![Nick](/assets/people/nick.png){:class="people-profile-image"}

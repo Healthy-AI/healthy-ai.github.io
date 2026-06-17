@@ -5,7 +5,7 @@ category: people
 permalink: /people/corina
 image: /assets/people/corina.jpg
 position: "MSc student"
-status: "alumni"
+status: "former"
 ---
 
 ![Corina](/assets/people/corina.jpg){:class="people-profile-image"}
